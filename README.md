@@ -1,1 +1,0 @@
-# CycleGAN_summer_to_winter_and_reversal
